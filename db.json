@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,30 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "ace",
+      "dogBreed": "american bulldog",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "ace",
+      "dogBreed": "american bulldog",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +43,128 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 1
+    },
+    {
+      "email": "bobemail",
+      "user": "bob",
+      "id": 2
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 3
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 4
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 5
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 6
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 7
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 8
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 9
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 10
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 11
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 12
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 13
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 14
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 15
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 16
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 17
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 18
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 19
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 20
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 21
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 22
+    },
+    {
+      "name": "bob",
+      "email": "dod",
+      "id": 23
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
